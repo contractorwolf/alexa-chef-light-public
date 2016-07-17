@@ -1,0 +1,17 @@
+{
+  "intents": [
+    {
+      "intent": "ChefLightIntent",
+      "slots": [
+        {
+          "name": "lightStatus",
+          "type": "LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "HelpIntent",
+      "slots": []
+    }
+  ]
+}

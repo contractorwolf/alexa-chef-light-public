@@ -1,0 +1,9 @@
+{
+  "name": "alexa-chef-light",
+  "version": "0.1.0",
+  "description": "An Amazon Echo Skill that will turn on or off the overhead LED lights using a Sparkcore microcontroller",
+  "main": "index.js",
+  "author": "James Wolf",
+  "license": "ISC",
+  "dependencies": {}
+}
