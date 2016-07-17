@@ -1,6 +1,4 @@
-// Alexa tell PhoneService to {call|ring} {James|Karolina} {*phone}  
 // Alexa tell ChefLight to turn {on|off}
-// https://api.spark.io/v1/devices/54ff6d066678574913210267/setAllLed?access_token=6db399356ba51185a6966d29fe3b3b7bca34514b -d "args=128"
 
   console.log("ChefLight v0.1 Started");
 
